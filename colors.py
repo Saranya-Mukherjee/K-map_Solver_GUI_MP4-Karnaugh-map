@@ -1,0 +1,8 @@
+bg_color ="#000000"
+fg_colour="#E54444"
+btn_fg="#E54444"
+btn_bg="#000000"
+btn_bg_lat="#FF0000"
+btn_fg_lat="#000000"
+solve_b="#52DF5D"
+solve_f="#0A0840"
