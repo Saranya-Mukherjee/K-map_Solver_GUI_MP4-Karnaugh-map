@@ -413,6 +413,7 @@ def show_result(answer):
     ans=Toplevel()
     ans.state("zoomed")
     ans.title("SEE THE RESULTS")
+    Label(ans, text="This part is under processing...\nThis will show the answer in video form...\n BTW see your solution").pack()
     Label(ans,text=answer).pack()
 
 def result():
