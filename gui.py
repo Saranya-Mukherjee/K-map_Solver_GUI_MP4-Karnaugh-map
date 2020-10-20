@@ -420,9 +420,7 @@ def result():
     if len(selected)==0:
         return
     v=int(var.get())
-    val=[]
-    for i in selected:
-        val.append(i)
+    val=selected[::]
     mode=0
     res=""
     if typ==1:
